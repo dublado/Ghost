@@ -41,7 +41,7 @@
         "compression": "1.2.0",
         "connect-slashes": "1.2.0",
         "downsize": "0.0.5",
-        "express": "4.9.2",
+        "express": "4.19.2",
         "express-hbs": "0.7.11",
         "fs-extra": "0.8.1",
         "html-to-text": "1.0.0",
